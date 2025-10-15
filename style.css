@@ -1,6 +1,4 @@
-*{
-    color: aqua;
-}
+
 box{
     border: 2px solid black;
     width: 300px;
@@ -8,3 +6,9 @@ box{
     background-color: rgba(0, 251, 255, 0.342);
     text-align: center;
 }
+.n{
+    color: red;
+
+    text-align: center;
+}
+
